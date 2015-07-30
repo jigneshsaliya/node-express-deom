@@ -1,0 +1,15 @@
+{
+  "Customer": {
+    "dbConfig": {
+      "host": "prod-db-server"
+    },
+    "credit": {
+      "initialDays": 30
+    },
+    "dbDetails":{
+    	"name":"mysql",
+    	"ipAddress":"10.70.30.140",
+    	"port":"8080"
+    }
+  }
+}
