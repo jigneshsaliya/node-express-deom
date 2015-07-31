@@ -5,7 +5,7 @@ I am really really pleased to inform you that this is my first tutorial on combi
 At the end of this tutorial you will be able to write REST web services using node.js and able to perform Crud operation.
 
 First let me explain you architecture of our applciation. 
-1. At fron we will have node server and it will listen on particular port.
+1. At front we will have node server and it will listen on particular port.
 2. We will user monk package of npmjs to connect our app with mongodb database.
 3. We have user mongo lab free cloud service provider for mongo db.
 4. If you have node install in your pc just download this project go to root folder "Mongo app" using cmd and hit npm install command and this will download all module of node.
