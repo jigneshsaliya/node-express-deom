@@ -1,6 +1,6 @@
 # node-express-deom
 
-I am really reallu pleased to infrom you that this is my first tutorial on combination of Node + Express.js + Mongo db and config.
+I am really really pleased to inform you that this is my first tutorial on combination of Node + Express.js + Mongo db and config.
 
 At the end of this tutorial you will be able to write REST web services using node.js and able to perform Crud operation.
 
