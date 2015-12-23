@@ -9,7 +9,7 @@ var bodyParser = require('body-parser');
 var config = require('config');
 
 //Merge test working or not
-//New Code
+//New Code test
 var mongo = require('mongodb');
 var monk = require('monk');
 var dbConfig = config.get('Customer.dbConfig.host');
